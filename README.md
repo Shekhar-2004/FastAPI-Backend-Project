@@ -106,7 +106,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## Maintainers
 
-- [Your Name](https://github.com/yourusername) - Project maintainer
+- [Indu Shekhar Singh](https://github.com/Shekhar-2004) - Project maintainer
 
 ---
 
