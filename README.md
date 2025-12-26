@@ -1,4 +1,4 @@
-# Telusko Trac
+# Trac
 
 A modern, full-stack product inventory management system built with FastAPI and React. Streamline your inventory tracking with an intuitive web interface and robust backend API.
 
